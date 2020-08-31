@@ -12,6 +12,7 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
+    "scss": "node-sass --watch src/styles/styles.scss src/styles/style.css",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
